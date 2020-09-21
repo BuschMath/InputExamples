@@ -1,13 +1,22 @@
 #include <iostream>
+#include <string>
 
 using namespace std;
 
 int main()
 {
-	int age;
+	char age, a;
 	cout << "What is your age: ";
-	cin >> age;
-	cout << endl << "The age you entered is: " << age;
+	cin.get(age);
+	cin >> a;
+
+	cout << endl << "The age you entered is: " << age << endl << a;
+
+	int b;
+	
+	cin >> b;
+
+	cout << endl << b;
 
 	return 0;
 }
