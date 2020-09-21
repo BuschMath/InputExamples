@@ -5,18 +5,11 @@ using namespace std;
 
 int main()
 {
-	char age, a;
+	string age;
 	cout << "What is your age: ";
-	cin.get(age);
-	cin >> a;
+	cin >> age;
 
-	cout << endl << "The age you entered is: " << age << endl << a;
-
-	int b;
-	
-	cin >> b;
-
-	cout << endl << b;
+	cout << endl << "The age you entered is: " << age << endl;
 
 	return 0;
 }
