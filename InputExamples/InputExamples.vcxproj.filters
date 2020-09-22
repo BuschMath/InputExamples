@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Ch4_InputExample.cpp">
+    <ClCompile Include="..\..\..\..\OneDriveNewLoc\OneDrive - Iowa Central Community College\Classes\C++\Presentations\Ch4Examples\Ch4_FileIO_Example.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
